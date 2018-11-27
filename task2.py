@@ -8,27 +8,27 @@ from validators.lib import ?
 ?
 
 
-from task1 import addUserDish
+from task1 import addStudentSkill
 
 
-#   Написати функцію, що зберігає інформацію про улюблену страву користувача у певній країні
+#   Написати функцію, що зберігає інформацію про вміння студента у певній компанії
 #   Усі дані вводить користувач. Використати валідатори. Викликати функцію
 
-def addUserDishValidator():
+def addStudentSkillValidator():
     #TODO
-    ? = getUserPassport()
+    ? = getStudent()
 
 
-    ? = getCountryName()
+    ? = getCompany()
 
-    ? = getDishName()
+    ? = getSkill()
 
-    addUserDish(?, ?, ?)
+    addStudentSkill(?, ?, ?)
 
 
 
 print("Task 1")
-addUserDishValidator()
+addStudentSkillValidator()
 print(dataset)
 
 

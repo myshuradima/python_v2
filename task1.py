@@ -4,21 +4,21 @@ from data import dataset
 #   Викликати функцію
 
 
-def addUserDish(user_name, country, dish):
+def addStudentSkill(student, company, skill):
     #TODO
 
 
 
 print("Task 1")
 
-#Додати нового користувача та страву у новій країні
-addUserDish(?,?,?)
+#Додати нового студента та вміння у новій компанії
+addStudentSkill(?,?,?)
 
-#Додати існуючому користувачу нову країну з новою стравою
-addUserDish(?,?,?)
+#Додати існуючому студенту нове вміння у новій компанії
+addStudentSkill(?,?,?)
 
-#Додати існуючому користувачу нову страву в існуючого країну
-addUserDish(?,?,?)
+#Додати існуючому студенту нове вміння в існуючій компанії
+addStudentSkill(?,?,?)
 
 print(dataset)
 

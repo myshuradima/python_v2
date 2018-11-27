@@ -6,7 +6,7 @@
 
 import re
 
-def getUserPassport():
+def getStudent():
 
     user_input = input(?)
 
@@ -21,7 +21,7 @@ def getUserPassport():
     Правило валідації
 """
 
-def getCountryName():
+def getCompany():
     #TODO
 
 
@@ -32,5 +32,5 @@ def getCountryName():
 """
 
 
-def getDishName():
+def getSkill():
     #TODO
