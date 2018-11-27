@@ -18,10 +18,19 @@
 
 dataset = \
 {
-
+    "KB-12121212":{
+        "personal_data":{
+            "name":"Ivan",
+            "surname":"Vanko",
+            "age":20
+        },
+        "companies":[{"company1":{"reading", "listening"}},
+                     {"privat24":{"pyhon"}},
+                     {"epam":{"java","databases"}}],
+    }
 
 }
-
+print(dataset)
 
 
 
